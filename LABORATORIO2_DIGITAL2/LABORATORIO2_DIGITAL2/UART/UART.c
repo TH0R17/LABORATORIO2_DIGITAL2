@@ -1,8 +1,8 @@
 /*
  * UART.c
  *
- * Created: 1/02/2026 18:25:03
- *  Author: Usuario
+ * 
+ *  AUTOR: Nesthor Guillermo
  */ 
 #include "UART.h"
 

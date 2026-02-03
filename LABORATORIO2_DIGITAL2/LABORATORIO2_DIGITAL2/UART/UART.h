@@ -1,8 +1,7 @@
 /*
  * UART.h
  *
- * Created: 1/02/2026 18:25:15
- *  Author: Usuario
+ * AUTOR: NESTHOR GUILLERMO
  */ 
 #ifndef UART_H_
 #define UART_H_
