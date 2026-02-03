@@ -1,6 +1,6 @@
 /*
 Autor:Nesthor Guillermo
-Descripción: Libreria LCD
+Libreria LCD
 
 */
 
